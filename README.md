@@ -1,5 +1,6 @@
 ## Ola 👋 
-🎓 Estudante de Tecnologia com foco em Desenvolvimento e Ciência de Dados Sou estudante de Tecnologia da Informação, com interesse e dedicação nas áreas de desenvolvimento de sistemas web e ciência de dados. 
-Tenho experiência com linguagens como Python, JavaScript e SQL, além de conhecimentos em bibliotecas e frameworks voltados à análise de dados, como Pandas, IA e Machine Learning, Emgemharia de prompts. 
-Busco aplicar a tecnologia para resolver problemas reais, desenvolvendo soluções eficientes e baseadas em dados. Estou sempre em busca de aprendizado contínuo, projetos práticos e oportunidades de crescimento na área de tecnologia.
+🎓Sou formando em Gestão em Tecnologia da Informação pela UFMS, com formação prática em Ciência de Dados pela Escola Harve de Tecnologia.
+Tenho experiência em análise de dados utilizando Python, SQL e Power BI, com foco em ETL, visualização de indicadores e apoio à tomada de decisão.
+
+Atualmente busco minha primeira oportunidade como Analista de Dados Júnior ou Estagiário em Dados, onde eu possa transformar dados em insights estratégicos e gerar valor para o negócio.
 
